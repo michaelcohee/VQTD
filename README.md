@@ -6,7 +6,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23103307.svg)](https://doi.org/10.5281/zenodo.23103307) Back-Reference Mirror Recovery (BRMR): Field-Level Repair of Converter-Lost Owner Handles in DXF
 
-Author: Michael Cohee · [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--1502--5125-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0005-1502-5125)
+Author: Michael Cohee · [![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE) · [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--1502--5125-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0005-1502-5125)
 
 VQTD is an offline Kotlin/Swing classroom app for tracing equations from the
 three papers in `Papers/` into plain explanations and code associations. Its
@@ -234,6 +234,13 @@ runs it together with the Layer Bridge and Learning Lab checks.
 - `Spatial3D.kt`: the shared projected-3D canvas and the paper scenes.
 - `LayerBridge.kt`, `Lessons.kt` (Paper Math catalog), `Psychology.kt`
   (Learning Lab).
+
+## License
+
+Code: [Apache License 2.0](LICENSE). Copyright 2026 Michael Cohee. Anyone
+redistributing VQTD or a derivative must keep the attribution in
+[NOTICE](NOTICE). The PDFs in `Papers/` are not covered by this license; each
+keeps the license on its Zenodo record.
 
 ## Citing
 

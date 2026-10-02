@@ -9,6 +9,7 @@ authors:
     email: michaelacohee@gmail.com
     orcid: "https://orcid.org/0009-0005-1502-5125"
 version: 0.2.0
+license: Apache-2.0
 keywords:
   - Reed-Solomon
   - erasure coding

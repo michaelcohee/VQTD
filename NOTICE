@@ -1,0 +1,16 @@
+VQTD — Visual Quasi-Thermodynamics
+Copyright 2026 Michael Cohee (ORCID: https://orcid.org/0009-0005-1502-5125)
+
+This product includes software developed by Michael Cohee.
+
+Licensed under the Apache License, Version 2.0 (see LICENSE). Under
+Section 4(d) of that license, any redistribution or derivative work must
+include a readable copy of the attribution notices in this NOTICE file.
+
+Source reports taught by this software (cite these when using VQTD):
+  RedTail-X              https://doi.org/10.5281/zenodo.23060238
+  DarkRock CAD           https://doi.org/10.5281/zenodo.23078388
+  BRMR                   https://doi.org/10.5281/zenodo.23103307
+
+The PDF files in Papers/ are not covered by the Apache License; each
+remains under the license stated on its Zenodo record.
