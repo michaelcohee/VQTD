@@ -7,6 +7,7 @@ authors:
     given-names: Michael
     affiliation: "Independent Researcher, New York, NY, USA"
     email: michaelacohee@gmail.com
+    orcid: "https://orcid.org/0009-0005-1502-5125"
 version: 0.2.0
 keywords:
   - Reed-Solomon
@@ -23,17 +24,23 @@ references:
     authors:
       - family-names: Cohee
         given-names: Michael
+        orcid: "https://orcid.org/0009-0005-1502-5125"
     doi: 10.5281/zenodo.23060238
-  - type: report
+  - type: article
+    journal: Zenodo
     title: "Exact Family Patching versus Geometry-Key Canonicalization for Deduplicating DXF Drawings: A Pre-Registered Evaluation"
     version: "1.0"
     authors:
       - family-names: Cohee
         given-names: Michael
-    doi: 10.5281/zenodo.23078389
+        orcid: "https://orcid.org/0009-0005-1502-5125"
+    doi: 10.5281/zenodo.23078388
+    date-released: 2026-10-01
   - type: report
     title: "Back-Reference Mirror Recovery (BRMR): Field-Level Repair of Converter-Lost Owner Handles in DXF"
     authors:
       - family-names: Cohee
         given-names: Michael
+        orcid: "https://orcid.org/0009-0005-1502-5125"
     doi: 10.5281/zenodo.23103307
+    date-released: 2026-10-02

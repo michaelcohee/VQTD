@@ -2,9 +2,11 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23060238.svg)](https://doi.org/10.5281/zenodo.23060238) RedTail-X: Variable-Length Final Shares for 4+2 Reed–Solomon Erasure-Coded Storage
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23078388.svg)](https://doi.org/10.5281/zenodo.23078388) Exact Family Patching versus Geometry-Key Canonicalization for Deduplicating DXF Drawings
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23078388.svg)](https://doi.org/10.5281/zenodo.23078388) Exact Family Patching versus Geometry-Key Canonicalization for Deduplicating DXF Drawings: A Pre-Registered Evaluation
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23103307.svg)](https://doi.org/10.5281/zenodo.23103307) Back-Reference Mirror Recovery (BRMR): Field-Level Repair of Converter-Lost Owner Handles in DXF
+
+Author: Michael Cohee · [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--1502--5125-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0005-1502-5125)
 
 VQTD is an offline Kotlin/Swing classroom app for tracing equations from the
 three papers in `Papers/` into plain explanations and code associations. Its
