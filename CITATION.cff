@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use VQTD in teaching or research, please cite it and the reports it teaches."
+title: "VQTD — Visual Quasi-Thermodynamics: a classroom for erasure coding, Merkle commitments, and owner repair"
+type: software
+authors:
+  - family-names: Cohee
+    given-names: Michael
+    affiliation: "Independent Researcher, New York, NY, USA"
+    email: michaelacohee@gmail.com
+version: 0.2.0
+keywords:
+  - Reed-Solomon
+  - erasure coding
+  - GF(2^8)
+  - Merkle tree
+  - DXF
+  - education
+  - retrieval practice
+references:
+  - type: report
+    title: "RedTail-X: Variable-Length Final Shares for 4+2 Reed–Solomon Erasure-Coded Storage"
+    version: "1.1"
+    authors:
+      - family-names: Cohee
+        given-names: Michael
+    doi: 10.5281/zenodo.23060238
+  - type: report
+    title: "Exact Family Patching versus Geometry-Key Canonicalization for Deduplicating DXF Drawings: A Pre-Registered Evaluation"
+    version: "1.0"
+    authors:
+      - family-names: Cohee
+        given-names: Michael
+    doi: 10.5281/zenodo.23078389
+  - type: report
+    title: "Back-Reference Mirror Recovery (BRMR): Field-Level Repair of Converter-Lost Owner Handles in DXF"
+    authors:
+      - family-names: Cohee
+        given-names: Michael
+    doi: 10.5281/zenodo.23103307
