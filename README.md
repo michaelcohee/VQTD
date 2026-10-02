@@ -1,5 +1,9 @@
 # VQTD — Visual Quasi-Thermodynamics
 
+**Software:** [![DOI](https://zenodo.org/badge/1402391643.svg)](https://doi.org/10.5281/zenodo.23111776) VQTD (this repository) · [![DOI](https://zenodo.org/badge/1391584742.svg)](https://doi.org/10.5281/zenodo.23111770) [DarkRock](https://github.com/michaelcohee/DarkRock) code
+
+**Reports:**
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23060238.svg)](https://doi.org/10.5281/zenodo.23060238) RedTail-X: Variable-Length Final Shares for 4+2 Reed–Solomon Erasure-Coded Storage
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23078388.svg)](https://doi.org/10.5281/zenodo.23078388) Exact Family Patching versus Geometry-Key Canonicalization for Deduplicating DXF Drawings: A Pre-Registered Evaluation

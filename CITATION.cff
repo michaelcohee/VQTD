@@ -9,6 +9,8 @@ authors:
     email: michaelacohee@gmail.com
     orcid: "https://orcid.org/0009-0005-1502-5125"
 version: 0.2.1
+doi: 10.5281/zenodo.23111776
+repository-code: "https://github.com/michaelcohee/VQTD"
 license: Apache-2.0
 keywords:
   - Reed-Solomon
@@ -19,6 +21,14 @@ keywords:
   - education
   - retrieval practice
 references:
+  - type: software
+    title: "DarkRock CAD: code and evaluation harness"
+    authors:
+      - family-names: Cohee
+        given-names: Michael
+        orcid: "https://orcid.org/0009-0005-1502-5125"
+    doi: 10.5281/zenodo.23111770
+    repository-code: "https://github.com/michaelcohee/DarkRock"
   - type: report
     title: "RedTail-X: Variable-Length Final Shares for 4+2 Reed–Solomon Erasure-Coded Storage"
     version: "1.1"
